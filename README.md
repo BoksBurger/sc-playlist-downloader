@@ -1,5 +1,5 @@
 # sc-playlist-downloader
-## Download Playlists from SoundCloud
+### Download Playlists from SoundCloud
 
 This is one of my first NodeJS (pet) projects I created back in 2018. 
 
